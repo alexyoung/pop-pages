@@ -1,0 +1,6 @@
+{  "url": "http://example.com/"
+ , "title": "Pop Blog"
+ , "permalink": "/:year/:month/:day/:title"
+ , "paginate": 10
+ , "exclude": ["\\.swp"]
+ , "autoGenerate": [{"feed": "feed.xml"}] }
