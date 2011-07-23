@@ -1,4 +1,4 @@
-{  "url": "http://example.com/"
+{  "url": "http://popjs.com/"
  , "title": "Pop Blog"
  , "permalink": "/:year/:month/:day/:title"
  , "paginate": 10
