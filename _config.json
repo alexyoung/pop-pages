@@ -4,4 +4,4 @@
  , "paginate": 10
  , "exclude": ["\\.swp"]
  , "require": ["pop-disqus"]
- , "autoGenerate": [{"feed": "feed.xml"}] }
+ , "autoGenerate": [{"feed": "feed.xml"}, {"rss": "feed.rss"}] }
